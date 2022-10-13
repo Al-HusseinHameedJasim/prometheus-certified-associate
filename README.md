@@ -7,7 +7,7 @@ According to [The Linux Foundation](https://training.linuxfoundation.org/certifi
 > The Prometheus Certified Associate (PCA) exam demonstrates an engineers foundational knowledge of observability and skills using Prometheus, the open source systems monitoring and alerting toolkit.
 
 ## Domains & Competencies
-The Prometheus Certified Associate (PCA) exam curriculum can be found [here](https://github.com/cncf/curriculum/blob/master/Prometheus_Curriculum.pdf).
+The Prometheus Certified Associate (PCA) exam curriculum can be found [here](https://github.com/cncf/curriculum/blob/master/PCA_Curriculum.pdf).
 
 ### 📋 Observability Concepts 18%
 
